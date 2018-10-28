@@ -1,5 +1,5 @@
 {
-    "algo": "cryptonight-heavy",
+    "algo": "cryptonight",
     "api": {
         "port": 0,
         "access-token": null,
@@ -17,7 +17,7 @@
     "log-file": null,
     "pools": [
         {
-            "url": "cryptonightheavy.usa.nicehash.com:3364",
+            "url": "cryptonightv8.usa.nicehash.com:3367",
             "user": "3L7eoLR7Vb3VvQuY2o7RijW7nCtWfjQYwV",
             "pass": "x",
             "rig-id": null,
