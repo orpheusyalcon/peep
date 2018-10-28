@@ -1,5 +1,5 @@
 {
-    "algo": "cryptonight",
+    "algo": "cryptonight-heavy",
     "api": {
         "port": 0,
         "access-token": null,
